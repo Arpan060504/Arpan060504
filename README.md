@@ -8,7 +8,7 @@
 B.Tech, Class of 2027
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arpan060504-181717?style=for-the-badge&logo=github)](https://github.com/Arpan060504)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpangraphy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arpangraphy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpan_Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-chandra-3078b8283/)
 
 </div>
